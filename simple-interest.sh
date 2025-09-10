@@ -1,9 +1,1 @@
-#!/bin/bash
-echo "Enter Principal:"
-read p
-echo "Enter Rate of Interest:"
-read r
-echo "Enter Time (in years):"
-read t
-si=$(echo "scale=2; $p * $r * $t / 100" | bc)
-echo "Simple Interest = $si"
+The CONTRIBUTING.md file has been created in the GitHub repository as per the task requirements. This file provides clear guidelines for contributing to the project, including instructions for reporting issues, creating branches, and submitting pull requests. It helps maintain consistency in contributions and makes it easier for new contributors to get started.
