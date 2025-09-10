@@ -1,13 +1,33 @@
-# Contributing Guidelines
+Contributing Guidelines
 
-## How to Contribute
-- Fork the repository
-- Clone your fork
-- Create a new branch (`bug-fix-typo`, etc.)
-- Make changes and commit
-- Push to your fork
-- Create a pull request
+Thank you for your interest in contributing to this project!
 
-## Code Style
-- Use clear commit messages
-- Follow shell scripting best practices
+a) How to Contribute
+
+1. Fork the repository
+
+2. Create a new branch (git checkout -b feature-name)
+
+3. Make your changes
+
+4. Commit your changes (git commit -m 'Add some feature')
+
+5. Push to the branch (git push origin feature-name)
+
+6. Open a Pull Request
+
+b) Code Style
+
+- Follow consistent naming conventions
+
+- Keep functions small and focused
+
+- Write clear and descriptive commit messages
+
+c) Reporting Issues
+
+If you find a bug or have a suggestion, please open an issue with details and steps to reproduce.
+
+License
+
+By contributing, you agree that your contributions will be licensed under the Apache 2.0 License.
